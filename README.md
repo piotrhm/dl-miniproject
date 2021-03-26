@@ -10,7 +10,7 @@ wget https://storage.googleapis.com/bit_models/BiT-M-R152x4.npz
 
 *.npz files should be placed in main project catalog.
 
-###Model details:
+### Model details:
 
 * [BiT - Google Repo](https://github.com/google-research/big_transfer)
 * [ViT - Google Repo](https://github.com/google-research/vision_transformer)
