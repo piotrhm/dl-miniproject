@@ -11,7 +11,7 @@ Downloading *.npz files:
 ``` bash
 wget https://storage.googleapis.com/vit_models/imagenet21k+imagenet2012/ViT-B_16.npz
 
-wget https://storage.googleapis.com/bit_models/BiT-M-R50x2-ILSVRC2012.npz
+wget https://storage.googleapis.com/bit_models/BiT-M-R50x3-ILSVRC2012.npz
 ```
 
 *.npz files should be placed in main project catalog.
